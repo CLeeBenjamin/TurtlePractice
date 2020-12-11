@@ -15,7 +15,6 @@ public class TurtleDrawShapes
       // Add your loop here!
       yertle.forward(100);
       yertle.turn(90);
-
       world.show(true);
   }
 }
